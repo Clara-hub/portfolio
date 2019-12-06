@@ -1,0 +1,129 @@
+.imagen-landing{
+    width: 100%;
+    position: relative;
+    margin-top: 5%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.imagen-landing2{
+    width: 100%;
+    position: relative;
+    margin-top: 5%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.imagen-landing3{
+    width: 100%;
+    position: relative;
+    margin-top: 5%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.caja-texto{
+    height: 450px;
+    width: 75%;
+    position: absolute;
+    background-color: #fff;
+    top: 104%;
+    right: 0%;
+    z-index: 2;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.caja-texto-2{
+    height: 450px;
+    width: 75%;
+    position: absolute;
+    background-color: #fff;
+    top: 230%;
+    left: 0%;
+    z-index: 3;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.caja-texto-3{
+    height: 450px;
+    width: 75%;
+    position: absolute;
+    background-color: #fff;
+    top: 358%;
+    left: 0%;
+    z-index: 4;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 3% 3% 3% 10%;
+}
+
+.texto-izq{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+.texto-izq h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: black;
+    font-size: 35px;
+    margin-bottom: 2%;
+}
+
+.texto-izq h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    color: grey;
+    font-size: 30px;
+    margin-bottom: 2%;
+}
+
+.texto-izq p{
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    color: black;
+    font-size: 18px;
+    margin-bottom: 6%;
+}
+
+.links{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.texto-izq .links img{
+    
+    margin-bottom: 8%;
+}
+
+.texto-dcha{
+    width: 75%;
+    display: flex;
+    align-items: flex-end;
+}
+
+.texto-dcha p{
+    width: 100%;
+}
+
+.caja-texto-3 p{
+    width: 95%;
+    font-family: 'Roboto', sans-serif;
+    color: #222222;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+}
+

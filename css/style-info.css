@@ -1,0 +1,125 @@
+section{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15%;
+}
+
+
+.imagen-landing{
+    width: 100%;
+    position: relative;
+    margin-top: 5%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.caja-texto{
+    width: 1112px;
+    height: 520px;
+    background-color: #fff;
+    position: absolute;
+    top: 90%;
+    left: 0%;
+    z-index: 2;
+    padding: 3% 3% 5% 8%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+
+.caja-texto p{
+    width: 52%;
+    font-family: 'Roboto', sans-serif;
+    color: #222222;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+}
+
+.imagen-landing-2{
+    width: 100%;
+    position: relative;
+    margin-top: 5%;
+    margin-left: 12%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.caja-texto-2{
+    width: 1012px;
+    height: 320px;
+    background-color: #fff;
+    position: absolute;
+    top: 235%;
+    right: 0%;
+    z-index: 2;
+    padding: 3% 5% 5% 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+
+.caja-texto-2 p{
+    width: 54%;
+    font-family: 'Roboto', sans-serif;
+    color: #222222;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+}
+
+
+footer{
+    width: 100%;
+    margin-top: 60%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 35px;
+    background-color: #012940;
+    margin: 0;
+    padding: 6% 0 8% 0;
+    
+}
+
+footer h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 35px;
+    margin-bottom: 1%;
+    color: #fff;   
+    margin-left: 10%; 
+    
+}
+
+footer p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    color: #fff;
+}
+
+footer a p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 2%;
+    color: #fff;
+}
+
+footer a p:visited{
+    color: black;
+}
+
+footer a p:hover{
+    color: grey;
+}
+
